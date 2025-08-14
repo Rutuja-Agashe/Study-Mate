@@ -63,7 +63,7 @@ It is designed for **selling courses** and providing information about education
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/studymate.git
+   git clone https://github.com/Rutuja-Agashe/studymate.git
 
 
 ---
@@ -93,6 +93,7 @@ StudyMate/
 
 
 ---
+
 
 
 
