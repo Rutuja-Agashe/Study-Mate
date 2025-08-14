@@ -34,25 +34,25 @@ It is designed for **selling courses** and providing information about education
 ![Home Page](SS/Home.PNG)
 
 ### ℹ️ About Page
-![About Page](SS/About.png)
+![About Page](SS/About.PNG)
 
 ### 📚 Courses – Course 1
-![Course 1](SS/Course1.png)
+![Course 1](SS/Course1.PNG)
 
 ### 📚 Courses – Course 2
-![Course 2](SS/Course2.png)
+![Course 2](SS/Course2.PNG)
 
 ### 📚 Courses – Course 3
-![Course 3](SS/Course3.png)
+![Course 3](SS/Course3.PNG)
 
 ### 👨‍🏫 Teachers Page
-![Teachers Page](SS/Teacher.png)
+![Teachers Page](SS/Teacher.PNG)
 
 ### 📝 Blog Page
-![Blog Page](SS/Blog.png)
+![Blog Page](SS/Blog.PNG)
 
 ### 📩 Contact Page
-![Contact Page](SS/Contact.png)
+![Contact Page](SS/Contact.PNG)
 
 ---
 
@@ -93,6 +93,7 @@ StudyMate/
 
 
 ---
+
 
 
 
