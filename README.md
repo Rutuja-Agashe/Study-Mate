@@ -7,17 +7,32 @@ It is designed for **selling courses** and providing information about education
 
 ## 🌟 Features
 
-- **Home Page** – Engaging introduction with navigation to all sections.
-- **About Page** – Brief description of the platform's mission and vision.
+- **Home Page** – Engaging introduction with navigation to all sections.  
+  ![Home Page Screenshot](SS/Home.png)
+
+- **About Page** – Brief description of the platform's mission and vision.  
+  ![About Page Screenshot](SS/About.png)
+
 - **Courses Section** – Includes multiple courses:
-  - Course 1
-  - Course 2
-  - Course 3
+  - Course 1  
+    ![Course 1 Screenshot](SS/Course1.png)
+  - Course 2  
+    ![Course 2 Screenshot](SS/Course2.png)
+  - Course 3  
+    ![Course 3 Screenshot](SS/Course3.png)
+
 - **Pages Section** – Additional educational resources:
-  - Teacher Profiles
-  - Blog Articles
-- **Contact Page** – Form to get in touch with the team.
-- **Fully Responsive Design** – Works across desktops, tablets, and mobile devices.
+  - Teacher Profiles  
+    ![Teacher Page Screenshot](SS/Teacher.png)
+  - Blog Articles  
+    ![Blog Page Screenshot](SS/Blog.png)
+
+- **Contact Page** – Form to get in touch with the team.  
+  ![Contact Page Screenshot](SS/Contact.png)
+
+- **Fully Responsive Design** – Works across desktops, tablets, and mobile devices.  
+ 
+
 - **Easy to Customize** – Simple HTML, CSS, and JS structure for quick modifications.
 
 ---
@@ -52,4 +67,3 @@ StudyMate/
 │   └── script.js      # Main JavaScript File
 │
 └── SS/            # Screenshots and assets
-
