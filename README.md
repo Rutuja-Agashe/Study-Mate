@@ -28,8 +28,43 @@ It is designed for **selling courses** and providing information about education
 - **Design:** Responsive layout, Flexbox/Grid, Modern UI components
 - **Media:** Images and icons for visual appeal
 
-- Home Page
-![Home Page](SS/About.PNG)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](SS/Home.PNG)
+
+### ℹ️ About Page
+![About Page](SS/About.png)
+
+### 📚 Courses – Course 1
+![Course 1](SS/Course1.png)
+
+### 📚 Courses – Course 2
+![Course 2](SS/Course2.png)
+
+### 📚 Courses – Course 3
+![Course 3](SS/Course3.png)
+
+### 👨‍🏫 Teachers Page
+![Teachers Page](SS/Teacher.png)
+
+### 📝 Blog Page
+![Blog Page](SS/Blog.png)
+
+### 📩 Contact Page
+![Contact Page](SS/Contact.png)
+
+---
+
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/studymate.git
+
 
 ---
 
@@ -59,45 +94,5 @@ StudyMate/
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](SS/About.PNG)
-
-### ℹ️ About Page
-![About Page](images/about.png)
-
-### 📚 Courses – Course 1
-![Course 1](images/course1.png)
-
-### 📚 Courses – Course 2
-![Course 2](images/course2.png)
-
-### 📚 Courses – Course 3
-![Course 3](images/course3.png)
-
-### 👨‍🏫 Teachers Page
-![Teachers Page](images/teacher.png)
-
-### 📝 Blog Page
-![Blog Page](images/blog.png)
-
-### 📩 Contact Page
-![Contact Page](images/contact.png)
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML5** – Structure of the website  
-- **CSS3** – Styling and responsiveness  
-- **JavaScript (ES6)** – Interactivity and DOM manipulation  
-
----
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/studymate.git
 
