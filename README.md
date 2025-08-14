@@ -28,6 +28,9 @@ It is designed for **selling courses** and providing information about education
 - **Design:** Responsive layout, Flexbox/Grid, Modern UI components
 - **Media:** Images and icons for visual appeal
 
+- Home Page
+![Home Page](SS/About.PNG)
+
 ---
 
 ## 📂 Project Structure
@@ -97,3 +100,4 @@ StudyMate/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/studymate.git
+
