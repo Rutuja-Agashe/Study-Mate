@@ -7,32 +7,17 @@ It is designed for **selling courses** and providing information about education
 
 ## 🌟 Features
 
-- **Home Page** – Engaging introduction with navigation to all sections.  
-  ![Home Page Screenshot](SS/Home.png)
-
-- **About Page** – Brief description of the platform's mission and vision.  
-  ![About Page Screenshot](SS/About.png)
-
+- **Home Page** – Engaging introduction with navigation to all sections.
+- **About Page** – Brief description of the platform's mission and vision.
 - **Courses Section** – Includes multiple courses:
-  - Course 1  
-    ![Course 1 Screenshot](SS/Course1.png)
-  - Course 2  
-    ![Course 2 Screenshot](SS/Course2.png)
-  - Course 3  
-    ![Course 3 Screenshot](SS/Course3.png)
-
+  - Course 1
+  - Course 2
+  - Course 3
 - **Pages Section** – Additional educational resources:
-  - Teacher Profiles  
-    ![Teacher Page Screenshot](SS/Teacher.png)
-  - Blog Articles  
-    ![Blog Page Screenshot](SS/Blog.png)
-
-- **Contact Page** – Form to get in touch with the team.  
-  ![Contact Page Screenshot](SS/Contact.png)
-
-- **Fully Responsive Design** – Works across desktops, tablets, and mobile devices.  
- 
-
+  - Teacher Profiles
+  - Blog Articles
+- **Contact Page** – Form to get in touch with the team.
+- **Fully Responsive Design** – Works across desktops, tablets, and mobile devices.
 - **Easy to Customize** – Simple HTML, CSS, and JS structure for quick modifications.
 
 ---
@@ -67,3 +52,48 @@ StudyMate/
 │   └── script.js      # Main JavaScript File
 │
 └── SS/            # Screenshots and assets
+
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](SS/About.PNG)
+
+### ℹ️ About Page
+![About Page](images/about.png)
+
+### 📚 Courses – Course 1
+![Course 1](images/course1.png)
+
+### 📚 Courses – Course 2
+![Course 2](images/course2.png)
+
+### 📚 Courses – Course 3
+![Course 3](images/course3.png)
+
+### 👨‍🏫 Teachers Page
+![Teachers Page](images/teacher.png)
+
+### 📝 Blog Page
+![Blog Page](images/blog.png)
+
+### 📩 Contact Page
+![Contact Page](images/contact.png)
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (ES6)** – Interactivity and DOM manipulation  
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/studymate.git
